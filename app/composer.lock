@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "66ca7343889332c2b8ecca11c251430c",
+    "content-hash": "85e460e409d7b03f22fc13d457c6b991",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -959,6 +959,46 @@
                 "psysh"
             ],
             "time": "2018-10-12T19:39:35+00:00"
+        },
+        {
+            "name": "laravelzone/admin",
+            "version": "v0.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Laravelzone/admin.git",
+                "reference": "339059667cf872981046566a39fc03e4bd356fb4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Laravelzone/admin/zipball/339059667cf872981046566a39fc03e4bd356fb4",
+                "reference": "339059667cf872981046566a39fc03e4bd356fb4",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "laravelzone\\admin\\AdminServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "laravelzone\\admin\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Satheesh",
+                    "email": "satheesh@dreamstudio.in"
+                }
+            ],
+            "description": "Laravel Admin Package",
+            "time": "2018-12-22T11:03:36+00:00"
         },
         {
             "name": "lcobucci/jwt",

@@ -15,7 +15,7 @@
         <![endif]-->
     <!-- Add your site or application content here -->
     <div class="wraper">
-        <?php include('inc/header.php') ?>
+        <?php include('inc/home/header.php') ?>
         <?php include('inc/home/banner.php') ?>
        
         <!-- Home one service Start Here -->

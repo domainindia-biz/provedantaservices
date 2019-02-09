@@ -1,14 +1,14 @@
-        <header>           
-            <div class="header1-area header-two">
+        <header>
+            <div class="header-one">
                 <div class="header-top-area" id="sticker">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
                                 <div class="logo-area">
-                                    <a href="index.html"><img class="img-responsive" src="img/logo2.png" alt="logo"></a>
+                                    <a href="index"><img class="img-responsive" src="img/logo.png" alt="logo"></a>
                                 </div>
                             </div>
-                            <?php include('inc/menu.php') ?>   
+                            <?php include('inc/menu.php') ?>                            
                         </div>
                     </div>
                 </div>
@@ -27,6 +27,12 @@
                                         <li><a href="index4.html">Home 4</a></li>
                                         <li><a href="index5.html">Home 5</a></li>
                                         <li><a href="index6.html">Home 6</a></li>
+                                        <li><a href="../one-page/index.html" target="_blank">Home 1 (Onepage)</a></li>
+                                        <li><a href="../one-page/index2.html" target="_blank">Home 2 (Onepage)</a></li>
+                                        <li><a href="../one-page/index3.html" target="_blank">Home 3 (Onepage)</a></li>
+                                        <li><a href="../one-page/index4.html" target="_blank">Home 4 (Onepage)</a></li>
+                                        <li><a href="../one-page/index5.html" target="_blank">Home 5 (Onepage)</a></li>
+                                        <li><a href="../one-page/index6.html" target="_blank">Home 6 (Onepage)</a></li>
                                         <li><a href="#">Pages</a>
                                             <ul class="mega-menu-area">
                                                 <li><a href="about.html">About Us</a></li>

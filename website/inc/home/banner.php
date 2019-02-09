@@ -1,5 +1,5 @@
- <!-- Slider 1 Area Start Here -->
- <div class="slider-default slider-overlay">
+        <!-- Slider 1 Area Start Here -->
+        <div class="slider-default slider-overlay">
             <div class="bend niceties preview-1">
                 <div id="ensign-nivoslider-3" class="slides">
                     <img src="img/slider/slide1_1.jpg" alt="slider" title="#slider-direction-1" />

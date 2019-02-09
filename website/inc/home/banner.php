@@ -10,9 +10,9 @@
                     <div class="slider-content s-tb slide-1 container">
                         <div class="title-container s-tb-c">
                             <p class="slider-big-text">Build Your Site Today!</p>
-                            <p>Our designers will create a completely custom, professionally designed website template and deliver the EverWeb Project to you so you can update and maintain your website on your own terms.</p>
+                            <p style="text-indent: 5px;"> Our web designers will create  completely custom and professionally designed website, so you can update and maintain your website on your own terms.</p>
                             <div class="slider-btn-area">
-                                <a href="#" class="ghost-btn">Purchase Now!</a>
+                                <a href="#" class="ghost-btn">Get a Quotation</a>
                             </div>
                         </div>
                     </div>
@@ -20,10 +20,10 @@
                 <div id="slider-direction-2" class="t-cn slider-direction">
                     <div class="slider-content s-tb slide-2 container">
                         <div class="title-container s-tb-c">
-                            <p class="slider-big-text">Monthly SEO Result</p>
-                            <p>Rimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since printer.</p>
+                            <p class="slider-big-text">You think, we develop!</p>
+                            <p style="text-indent: 5px;">We have a well rounded team to do CMS , Ecommerce , Mobile Apps  and Web Applications. These include Domain & Hosting solutions as well..</p>
                             <div class="slider-btn-area">
-                                <a href="#" class="ghost-btn">Purchase Now!</a>
+                                <a href="#" class="ghost-btn">Get a Quotation</a>
                             </div>
                         </div>
                     </div>
@@ -31,10 +31,10 @@
                 <div id="slider-direction-3" class="t-cn slider-direction">
                     <div class="slider-content s-tb slide-3 container">
                         <div class="title-container s-tb-c">
-                            <p class="slider-big-text">Weekly Analytics Report</p>
-                            <p>Rimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since printer.</p>
+                            <p class="slider-big-text">Digital Marketing</p>
+                            <p style="text-indent: 5px;">Digital presence has become highly mandatory in today’s competitive business world. Adopt our complete digital marketing services to enhance your online value and expand the potential customer base..</p>
                             <div class="slider-btn-area">
-                                <a href="#" class="ghost-btn">Purchase Now!</a>
+                                <a href="#" class="ghost-btn">Get a Quotation</a>
                             </div>
                         </div>
                     </div>

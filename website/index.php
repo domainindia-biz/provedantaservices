@@ -28,30 +28,30 @@
                                 <a><i class="flaticon-target"></i></a>
                             </div>
                             <div class="media content">
-                                <h3><a href="#">Keyword Targeting</a></h3>
-                                <p>Keywords are the search terms that people into search engines. Your rankings are based on the relevance of your page to those keywords.</p>
+                                <h3><a href="#">Website Design</a></h3>
+                                <p>Our Web design confines many unique expertise and regimes in developing a website, We are profoundly an inbuilt web designing company.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                         <div class="single-service">
                             <div class="pull-left icon red">
-                                <a><i class="flaticon-graphic-1"></i></a>
+                                <a><i class="flaticon-commerce"></i></a>
                             </div>
                             <div class="media content">
-                                <h3><a href="#">Web Analytics</a></h3>
-                                <p>Web analytics is the measurement, collection, analysis and reporting of web data for purposes of under standing and optimizing web usage.</p>
+                                <h3><a href="#">Web App Development</a></h3>
+                                <p>Do you wish to get web application development services that drive your business to next level? Then you have landed in the right niche.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                         <div class="single-service">
                             <div class="pull-left icon blue">
-                                <a><i class="flaticon-mail"></i></a>
+                                <a><i class="flaticon-interface"></i></a>
                             </div>
                             <div class="media content">
-                                <h3><a href="#">E-mail Marketing</a></h3>
-                                <p>Email marketing is directly sending a commercial message, typically to a group of people, using email. In its broadest sense, every email.</p>
+                                <h3><a href="#">Mobile App Development</a></h3>
+                                <p> Mobile App as a real-time solution for your business problems, that would surprise you with their ease in usability and their sophistication in design.</p>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                 <form class="checkout" id="checkoutForm">
                     <fieldset>
                         <!-- Form Name -->
-                        <h2>Check Your Website’s SEO Problems For Free!</h2>
+                        <h2>Get Your  Domain Name For Free!</h2>
                         <!-- Text input-->
                         <div class="form-group">
                             <input id="form-name" name="url" placeholder="Type Your Website URL Here ..." class="form-control input-md" type="text">
@@ -89,14 +89,14 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="content-part">
-                            <h1>What Is SEO?</h1>
-                            <p>SEO stands for “search engine optimization.” It is the process of getting traffic from the “free,” “organic,” “editorial” or “natural” search results on search engines.</p>
+                            <h2>Success Start With A Great App</h2>
+                            <p>You often hear people throw around the phrase “Ideas are worthless, it’s all about the implementation” We develop innovative technological solutions in harmony with your needs</p>
                             <a class="ghost-btn" href="#">Start Free Trial</a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="image-part">
-                            <img src="img/what_seo_img.png" alt="what seo">
+                            <img src="img/dashboard.png" alt="what seo">
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                 <div class="row">
                     <div class="title-section">
                         <h2>Why Take Our Services</h2>
-                        <p>Timply dummy text the printing typesetting industry</p>
+                        <p>We develop innovative technological solutions in harmony with your needs</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                         <div class="single-service">
@@ -241,87 +241,8 @@
             </div>
         </div>
         <!-- Counter section End Here -->
-        <!-- Recent case studies Start Here -->
-        <div class="recent-case-studies padding-two-top-bottom">
-            <div class="container">
-                <div class="title-section">
-                    <h2>Recent Case Studies</h2>
-                    <p>Timply dummy text the printing typesetting industry</p>
-                </div>
-                <div class="rc-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="2000" data-dots="true" data-nav="false" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="false" data-r-x-small-dots="true" data-r-small="2" data-r-small-nav="false" data-r-small-dots="true" data-r-medium="3" data-r-medium-nav="true" data-r-medium-dots="false">
-                    <div class="single-case-item">
-                        <div class="case-image">
-                            <a href="#"><img src="img/casestudies/case1.jpg" alt="case"></a>
-                            <div class="overly"><a href="#">Details</a></div>
-                        </div>
-                        <div class="case-content">
-                            <h3><a href="#">Content Strategy</a></h3>
-                            <p>Borem ipsum dolor samnsectetur adipis cin elit, sed do eiusmod tempor.</p>
-                        </div>
-                    </div>
-                    <div class="single-case-item">
-                        <div class="case-image">
-                            <a href="#"><img src="img/casestudies/case2.jpg" alt="case"></a>
-                            <div class="overly"><a href="#">Details</a></div>
-                        </div>
-                        <div class="case-content">
-                            <h3><a href="#">Top SEO Experts</a></h3>
-                            <p>Borem ipsum dolor samnsectetur adipis cin elit, sed do eiusmod tempor.</p>
-                        </div>
-                    </div>
-                    <div class="single-case-item">
-                        <div class="case-image">
-                            <a href="#"><img src="img/casestudies/case3.jpg" alt="case"></a>
-                            <div class="overly"><a href="#">Details</a></div>
-                        </div>
-                        <div class="case-content">
-                            <h3><a href="#">Marketing Stactics</a></h3>
-                            <p>Borem ipsum dolor samnsectetur adipis cin elit, sed do eiusmod tempor.</p>
-                        </div>
-                    </div>
-                    <div class="single-case-item">
-                        <div class="case-image">
-                            <a href="#"><img src="img/casestudies/case1.jpg" alt="case"></a>
-                            <div class="overly"><a href="#">Details</a></div>
-                        </div>
-                        <div class="case-content">
-                            <h3><a href="#">Content Strategy</a></h3>
-                            <p>Borem ipsum dolor samnsectetur adipis cin elit, sed do eiusmod tempor.</p>
-                        </div>
-                    </div>
-                    <div class="single-case-item">
-                        <div class="case-image">
-                            <a href="#"><img src="img/casestudies/case2.jpg" alt="case"></a>
-                            <div class="overly"><a href="#">Details</a></div>
-                        </div>
-                        <div class="case-content">
-                            <h3><a href="#">Marketing Stactics</a></h3>
-                            <p>Borem ipsum dolor samnsectetur adipis cin elit, sed do eiusmod tempor.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Recent case studies End Here -->
-        <!-- Seo premium feature Start Here -->
-        <div class="premium-feature-one">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                        <div class="premium-content">
-                            <h3>Not Enough For Your <span>SEO</span> Needs?</h3>
-                            <p>Want to add more projects/ keywords/ pages to analyze?</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                        <div class="premium-button">
-                            <a class="default-button-btn" href="#">Premium Features</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Seo premium feature End Here -->
+
+
         <!-- Our pricing plans Start Here -->
         <div class="our-pricing-table padding-two-top-bottom">
             <div class="container">
@@ -402,89 +323,7 @@
             </div>
         </div>
         <!-- Happy clients End Here -->
-        <!-- Latest blog Start Here -->
-        <div class="latest-blog-area padding-two-top-bottom">
-            <div class="container menu-list-wrapper">
-                <div class="row menu-list">
-                    <div class="title-section">
-                        <h2>Latest Blogs</h2>
-                        <p>Simply dummy text of the printing and typesetting industry arore</p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 menu-item">
-                        <div class="single-blog-item">
-                            <div class="blog-image">
-                                <a href="#"><img src="img/blog/blog1.jpg" alt="blog"></a>
-                            </div>
-                            <div class="blog-content">
-                                <div class="date">20
-                                    <br><span>Oct</span></div>
-                                <h3><a href="#">World market stosimply dummy text of the printingtype setting industryc for business policy.</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 menu-item">
-                        <div class="single-blog-item">
-                            <div class="blog-image">
-                                <a href="#"><img src="img/blog/blog2.jpg" alt="blog"></a>
-                            </div>
-                            <div class="blog-content">
-                                <div class="date">20
-                                    <br><span>Oct</span></div>
-                                <h3><a href="#">World market stosimply dummy text of the printingtype setting industryc for business policy.</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 menu-item hidden">
-                        <div class="single-blog-item">
-                            <div class="blog-image">
-                                <a href="#"><img src="img/blog/blog3.jpg" alt="blog"></a>
-                            </div>
-                            <div class="blog-content">
-                                <div class="date">20
-                                    <br><span>Oct</span></div>
-                                <h3><a href="#">World market stosimply dummy text of the printingtype setting industryc for business policy.</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 menu-item hidden">
-                        <div class="single-blog-item">
-                            <div class="blog-image">
-                                <a href="#"><img src="img/blog/blog4.jpg" alt="blog"></a>
-                            </div>
-                            <div class="blog-content">
-                                <div class="date">20
-                                    <br><span>Oct</span></div>
-                                <h3><a href="#">World market stosimply dummy text of the printingtype setting industryc for business policy.</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <div class="loadmore viewall">
-                            <a class="ghost-btn" href="#">View All</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Latest blog End Here -->
-        <!-- Ready to promote Start Here -->
-        <div class="ready-promote-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                        <div class="content">
-                            <h3>Ready To Promote Your website Online?</h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                        <div class="button-area">
-                            <a class="default-button-btn" href="#">Premium Features</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Ready to promote End Here -->
+
         <?php include('inc/footer.php') ?>
 
 </body>

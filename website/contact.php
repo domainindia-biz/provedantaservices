@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SEO Engine | About Us</title>
+    <title> Provedanta Services | About Us</title>
     <meta name="description" content="">
    <?php include('inc/head.php') ?>
 </head>
@@ -24,7 +24,7 @@
                 </div>
                 <div class="breadcrumb">
                     <ul>
-                        <li><a href="index.html">Home -</a></li>
+                        <li><a href="index">Home -</a></li>
                         <li class="active">Contact</li>
                     </ul>
                 </div>

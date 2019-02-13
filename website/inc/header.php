@@ -5,7 +5,7 @@
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
                                 <div class="logo-area">
-                                    <a href="index.html"><img class="img-responsive" src="img/logo2.png" alt="logo"></a>
+                                    <a href="index"><img class="img-responsive" src="img/logo2.png" alt="logo"></a>
                                 </div>
                             </div>
                             <?php include('inc/menu.php') ?>   
@@ -21,36 +21,21 @@
                             <div class="mobile-menu">
                                 <nav id="dropdown">
                                     <ul>
-                                        <li><a href="index.html">Home 1</a></li>
-                                        <li><a href="index2.html">Home 2</a></li>
-                                        <li><a href="index3.html">Home 3</a></li>
-                                        <li><a href="index4.html">Home 4</a></li>
-                                        <li><a href="index5.html">Home 5</a></li>
-                                        <li><a href="index6.html">Home 6</a></li>
-                                        <li><a href="#">Pages</a>
+                                        <li ><a href="index">Home</a>
+                                        <li><a href="about">About Us</a></li>
+
+                                        <li><a href="#">Services</a>
                                             <ul class="mega-menu-area">
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="single-service.html">Single Service</a></li>
-                                                <li><a href="case-studies.html">Our Case Studies</a></li>
-                                                <li><a href="single-studies.html">Single Case Studies</a></li>
-                                                <li><a href="blog-default.html">Blog Default Layout</a></li>
-                                                <li><a href="blog-standard.html">Blog Standard Layout</a></li>
-                                                <li><a href="single-blog.html">Single Blog Layout</a></li>
-                                                <li><a href="portfolio.html">Portfolio Page</a></li>
-                                                <li><a href="404.html">404 Page</a></li>
+                                            <li><a href="#">Logo Design</a></li>
+                                                    <li><a href="#">Web Design</a></li>
+                                                    <li><a href="#">Digital Marketing</a></li>
+                                                    <li><a href="#">Ecommerce Developement</a></li>
+                                                    <li><a href="#">Custom web Application</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="case-studies.html">Case Studies</a></li>
-                                        <li><a href="blog-default.html">Blog</a></li>
-                                        <li><a href="#">Shop</a>
-                                            <ul class="mega-menu-area">
-                                                <li><a href="shop.html">Category Grid</a></li>
-                                                <li><a href="shop-list.html">Category List</a></li>
-                                                <li><a href="single-product.html">Single Product</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="#">Pricing</a></li>
+                                        <li><a href="#">Portfolio</a></li>
+                                        <li><a href="contact">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>

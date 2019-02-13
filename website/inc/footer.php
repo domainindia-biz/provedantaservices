@@ -8,10 +8,9 @@
                         </div>
                         <div class="information">
                             <ul>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">About Us</a></li>
                                 <li><a href="#">Plans & Pricing</a></li>
-                                <li><a href="#">Free SEO Tools</a></li>
-                                <li><a href="#">Support and FAQ</a></li>
-                                <li><a href="#">Blog & Articles</a></li>
                                 <li><a href="#">Company & Contact Info</a></li>
                                 <li><a href="#">Terms of Service</a></li>
                                 <li><a href="#">Privacy Policy</a></li>
@@ -24,12 +23,11 @@
                         </div>
                         <div class="our-service">
                             <ul>
-                                <li><a href="#">SEO Services</a></li>
-                                <li><a href="#">Virtual Marketing</a></li>
-                                <li><a href="#">Pay-per-click</a></li>
-                                <li><a href="#">Email Marketing</a></li>
-                                <li><a href="#">Social Media</a></li>
-                                <li><a href="#">Keyword Analytics</a></li>
+                                <li><a href="#">Logo Design</a></li>
+                                <li><a href="#">Web design</a></li>
+                                <li><a href="#">Digital Marketing</a></li>
+                                <li><a href="#">Ecommerce Developement</a></li>
+                                <li><a href="#">Custom web Application</a></li>
                                 <li><a href="#">Web Analyticsment</a></li>
                             </ul>
                         </div>
@@ -92,7 +90,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                         <div class="copy-right">
-                            <p>© Copyrights Maatseo 2016. All rights reserved. Designed by <a href="http://radiustheme.com">Radiustheme</a></p>
+                            <p>© Copyrights ProvedantaServices 2016. All rights reserved. Designed by <a href="http://domainindia.com">Domain India</a></p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">

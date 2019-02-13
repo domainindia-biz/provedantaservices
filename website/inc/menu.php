@@ -2,21 +2,21 @@
                                 <div class="main-menu">
                                     <nav>
                                         <ul>
-                                            <li class="active"><a href="index">Home</a>
+                                            <li ><a href="index">Home</a>
                                              
                                             <li><a href="about">About Us</a></li>
                                             
                                             <li><a href="#">Services</a>
                                                 <ul class="menu-dropdown">
-                                                    <li><a href="#">Logo Design</a></li>
-                                                    <li><a href="#">Web Design</a></li>
-                                                    <li><a href="#">Digital Marketing</a></li>
-                                                    <li><a href="#">Ecommerce Developement</a></li>
-                                                    <li><a href="#">Custom web Application</a></li>
+                                                    <li><a href="logodesign">Logo Design</a></li>
+                                                    <li><a href="webdesign">Web Design</a></li>
+                                                    <li><a href="digitalmarketing">Digital Marketing</a></li>
+                                                    <li><a href="ecommerce">Ecommerce Developement</a></li>
+                                                    <li><a href="webapp">Custom web Application</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="#">Pricing</a></li>
-                                            <li><a href="#">Portfolio</a></li>
+                                            <li><a href="pricing">Pricing</a></li>
+                                            <li><a href="portfolio">Portfolio</a></li>
                                             <li><a href="contact">Contact</a></li>
                                         </ul>
                                     </nav>

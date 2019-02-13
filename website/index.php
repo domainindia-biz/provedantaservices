@@ -181,66 +181,7 @@
             </div>
         </div>
         <!-- Take our service End Here -->
-        <!-- Counter section Start Here -->
-        <div class="counter-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                        <div class="counter-box">
-                            <div class="single-counter">
-                                <a href="#" class="pull-left">
-                                    <i class="flaticon-handshake"></i>
-                                </a>
-                                <div class="media-body">
-                                    <h2 class="about-counter" data-num="5090">5,090</h2>
-                                    <p>Customer Satisfaction</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                        <div class="counter-box">
-                            <div class="single-counter">
-                                <a href="#" class="pull-left">
-                                    <i class="flaticon-graphic-1"></i>
-                                </a>
-                                <div class="media-body">
-                                    <h2 class="about-counter" data-num="3090">3,090</h2>
-                                    <p>Achieve Goals</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                        <div class="counter-box">
-                            <div class="single-counter">
-                                <a href="#" class="pull-left">
-                                    <i class="flaticon-share"></i>
-                                </a>
-                                <div class="media-body">
-                                    <h2 class="about-counter" data-num="2050">2,050</h2>
-                                    <p>Share People</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-                        <div class="counter-box">
-                            <div class="single-counter">
-                                <a href="#" class="pull-left">
-                                    <i class="flaticon-headphones"></i>
-                                </a>
-                                <div class="media-body">
-                                    <h2 class="about-counter" data-num="9000">9,000</h2>
-                                    <p>Dedicated Support</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Counter section End Here -->
+        
 
 
         <!-- Happy clients Start Here -->

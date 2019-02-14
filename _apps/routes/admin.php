@@ -34,6 +34,10 @@ Route::group(['namespace' => 'Admin'], function() {
     Route::delete('/role/{role}', 'RoleController@destroy')->name('admin.role.delete');
     Route::get('/role/{role}/edit', 'RoleController@edit')->name('admin.role.edit');
     Route::patch('/role/{role}', 'RoleController@update')->name('admin.role.update');
+
+
+    Route::get('/pages/{page}', 'PagesController@index');
+
     Route::get('/{any}', function () {
         return abort(404);
     });

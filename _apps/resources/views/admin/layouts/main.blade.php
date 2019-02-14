@@ -27,7 +27,7 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-
+    @stack('styles')
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
@@ -198,7 +198,7 @@
 
                 <p>nora@example.com</p>
               </div>
-            </a>
+              name  </a>
           </li>
           <li>
             <a href="javascript:void(0)">
@@ -329,7 +329,7 @@
               <input type="checkbox" class="pull-right">
             </label>
           </div>
-          <!-- /.form-group -->
+          name<!-- /.form-group -->
 
           <div class="form-group">
             <label class="control-sidebar-subheading">
@@ -367,5 +367,7 @@
     $('.sidebar-menu').tree()
   })
 </script>
+
+@stack('scripts')
 </body>
 </html>

@@ -2,7 +2,7 @@
             <div class="main-menu">
                 <nav>
                     <ul>
-                        <li ><a href="index">Home</a>
+                        <li ><a href="{{ url('/')}}">Home</a>
                             
                         <li><a href="about">About Us</a></li>
                         
